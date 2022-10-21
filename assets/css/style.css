@@ -1783,3 +1783,81 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+
+
+/*--------------------------------------------------------------
+# Inner Htmls
+/* --------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Caregivers
+/* --------------------------------------------------------------*/
+
+.careg_main_img{
+  float: right;
+  width: 550px;
+}
+
+.careg_main_text{
+ padding-right: 30px;
+}
+
+.careg_main_text p{
+  margin: 30px;
+}
+
+.bullet{
+  list-style-type : none;
+}
+
+.bullet li {
+  position: relative;
+  padding-left: 25px;
+  margin-bottom: 8px;
+}
+
+.bullet li:before {
+  position: absolute;
+  content: "";
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  left: 3px;
+  top: 9px;
+  background: #f52222;
+}
+
+
+ :after, :before {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  image-rendering: -webkit-optimize-contrast;
+}
+
+
+
+/*--------------------------------------------------------------
+# About Us
+/* --------------------------------------------------------------*/
+
+.about_cont{
+  
+}
+
+.about_main_img{
+  float: right;
+  width: 350px;
+  padding-top: 30px;
+
+}
+
+.about_main_text{
+  float: left;
+  padding-top: 30px;
+}
+
+mark{
+  color: #f52222;
+  background-color: white;
+}
+
