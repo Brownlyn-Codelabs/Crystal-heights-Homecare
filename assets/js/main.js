@@ -1,9 +1,10 @@
-/**
-* Template Name: Medilab - v4.9.1
-* Template URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
+/* =======================================================
+  BrownlynCodelads
+   *****
+   October 21, 2022.
+  ======================================================== */
+  
 (function() {
   "use strict";
 
