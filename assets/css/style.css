@@ -1788,6 +1788,14 @@ section {
 height: 30px;
 }
 
+.credits a{
+color: #00b0dc;
+  }
+
+  .credits a:hover{
+    color: #000;
+      }
+    
 
 
 
